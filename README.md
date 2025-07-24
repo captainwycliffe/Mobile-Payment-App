@@ -31,7 +31,7 @@ This mobile payment application demonstrates enterprise-grade development practi
 
 ### 🎥 Demo
 
-**Live Demo:** `http://localhost:19006` (after setup)
+**Live Demo:** `http://localhost:8081` (after setup)
 
 **Video Walkthrough:** [5-minute demo covering architecture, features, and technical decisions]
 
